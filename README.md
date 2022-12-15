@@ -1,2 +1,2 @@
-# MED-UM-CLONE-W-TH-BOOTSTRAP
+# MEDIUM-CLONE-WITH-BOOTSTRAP
 Medium Clone made with bootstrap by jasua
